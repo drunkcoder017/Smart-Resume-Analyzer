@@ -17,5 +17,5 @@ A Streamlit-based application that analyzes resumes against job descriptions usi
  
  - 📄 Add resume score breakdown (skills, experience, keywords)
  - 🆘 Role-specific improvement suggestions (ML, PM, Dev, etc.)
+ - 🙋🏻 Get personalised full resume feedback 
 
----
