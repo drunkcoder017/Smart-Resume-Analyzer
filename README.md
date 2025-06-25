@@ -9,7 +9,6 @@ A Streamlit-based application that analyzes resumes against job descriptions usi
 - 📄 Extracts and parses resume text from uploaded PDFs
 - 🎯 Matches resumes with job descriptions using LLMs
 - 💬 Chat assistant to suggest improvements and answer user queries
-- 📥 Save or download chat history for later review
 - ⚡ Fast response with Gemini 2.0 Flash integration
 
 ---
